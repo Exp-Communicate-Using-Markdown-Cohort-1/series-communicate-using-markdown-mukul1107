@@ -10,3 +10,6 @@
 ```js
 console.log("Hello! GitHub");
 ```
+- [x] Hosting on GitHub Pages
+- [ ] Creating a portfolio
+- [ ] Communicating with others
